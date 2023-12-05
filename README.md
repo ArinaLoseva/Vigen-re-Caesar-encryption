@@ -1,4 +1,4 @@
-# Vigen-re-Caesar-encryption
+# Vigenere-and-Caesar-encryption
 code for Windows Form application for text encryption using Vigenere + Caesar methods
 ## About
 Programming language: C#
